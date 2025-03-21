@@ -1,6 +1,6 @@
-# PlanMyTrip
+# TripDarzee
 
-PlanMyTrip is an AI-powered travel planning application designed to help users plan their vacations effortlessly. By leveraging Gemini AI, the application creates customized vacation plans based on user inputs, including location, number of people, number of vacation days, and budget type. The generated plans include hotel accommodations and a detailed day-by-day itinerary of places to visit.
+TripDarzee is an AI-powered travel planning application designed to help users plan their vacations effortlessly. By leveraging Gemini AI, the application creates customized vacation plans based on user inputs, including location, number of people, number of vacation days, and budget type. The generated plans include hotel accommodations and a detailed day-by-day itinerary of places to visit.
 
 ## Features
 
@@ -24,13 +24,13 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/nuricanbrdmr/PlanMyTrip-AI-Travel-Planner-Website.git
+   git clone https://github.com/nuricanbrdmr/TripDarzee-AI-Travel-Planner-Website.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd PlanMyTrip-AI-Travel-Planner-Website
+   cd TripDarzee-AI-Travel-Planner-Website
    ```
 
 3. **Install Dependencies:**
@@ -79,7 +79,7 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Demo Video Link
 
-[PlanMyTrip Demo Video](https://www.youtube.com/watch?v=B_3PNPe022M)
+[TripDarzee Demo Video](https://www.youtube.com/watch?v=B_3PNPe022M)
 
 ## Screenshot
 
