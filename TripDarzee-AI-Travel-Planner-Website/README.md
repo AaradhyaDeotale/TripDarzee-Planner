@@ -24,13 +24,13 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/nuricanbrdmr/TripDarzee-AI-Travel-Planner-Website.git
+   git clone https://github.com/AaradhyaDeotale/TripDarzee-Planner.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd TripDarzee-AI-Travel-Planner-Website
+   cd TripDarzee-Planner
    ```
 
 3. **Install Dependencies:**
