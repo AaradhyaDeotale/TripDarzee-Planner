@@ -1,6 +1,6 @@
-# PlanMyTrip
+# TripDarzee
 
-PlanMyTrip is an AI-powered travel planning application designed to help users plan their vacations effortlessly. By leveraging Gemini AI, the application creates customized vacation plans based on user inputs, including location, number of people, number of vacation days, and budget type. The generated plans include hotel accommodations and a detailed day-by-day itinerary of places to visit.
+TripDarzee is an AI-powered travel planning application designed to help users plan their vacations effortlessly. By leveraging Gemini AI, the application creates customized vacation plans based on user inputs, including location, number of people, number of vacation days, and budget type. The generated plans include hotel accommodations and a detailed day-by-day itinerary of places to visit.
 
 ## Features
 
